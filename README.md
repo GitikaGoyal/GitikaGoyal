@@ -34,7 +34,11 @@
 <br><br>
 <br><br>
 <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GitikaGoyal&theme=highcontrast" alt="GitikaGoyal" /></p>
+<p><img 
+    align="left" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GitikaGoyal&theme=highcontrast&date_format=j%20M%5B%2C%20Y%5D&v=1" 
+    alt="GitikaGoyal GitHub Streak Stats" 
+  /></p>
 
 
 <br>
