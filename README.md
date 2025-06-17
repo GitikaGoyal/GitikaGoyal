@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitikagoyal&show_icons=true&locale=en&layout=compact" alt="gitikagoyal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitikagoyal&show_icons=true&locale=en" alt="gitikagoyal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitikagoyal&" alt="gitikagoyal" /></p>
