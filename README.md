@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Gitika Goyal</h1>
 <h3 align="center">Final Year CS Undergrad | Software Engineer | AI/ML + Finance Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitikagoyal&label=Profile%20views&color=0e75b6&style=flat" alt="gitikagoyal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GitikaGoyal&label=Profile%20views&color=0e75b6&style=flat" alt="GitikaGoyal" /> </p>
 
 - 🌱 I’m currently learning **- Multimodal AI (text + image + audio) - Advanced NLP - Transformers, BERT, LLM fine-tuning - System Design for scalable apps**
 
@@ -27,14 +27,14 @@
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitikagoyal&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="gitikagoyal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GitikaGoyal&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="GitikaGoyal" /></p>
 
 <br>
 <br><br>
 <br><br>
 <br><br>
 <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gitikagoyal&theme=highcontrast" alt="gitikagoyal" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GitikaGoyal&theme=highcontrast" alt="GitikaGoyal" /></p>
 
 
 <br>
@@ -42,7 +42,7 @@
 <br><br>
 <br><br>
 <br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gitikagoyal&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="gitikagoyal" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=GitikaGoyal&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="GitikaGoyal" /></p>
 <br>
 <br><br>
 <br><br>
@@ -54,15 +54,17 @@
   <summary>View Here</summary>
   <br>
   <!-- 50 days -->
+  <!---
   <a href="https://leetcode.com/u/gitika_goyal/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="gitika50" height="200" width="200" />
   </a>
-  
+  -->
   <!-- 100 days -->
-<a href="https://leetcode.com/u/gitika_goyal/" target="_blank">
+<!--
+  <a href="https://leetcode.com/u/gitika_goyal/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="gitika100"  height="200" width="200"/>
   </a>
-
+-->
   <br>
   <img align="top" src="https://leetcard.jacoblin.cool/gitika_goyal?theme=dark&font=Nunito&ext=heatmap" />
 </details>
