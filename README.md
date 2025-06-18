@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Gitika Goyal</h1>
-<h3 align="center">Final Year CS Undergrad | Software Engineer | AI/ML + Finance Enthusiast</h3>
+<h3 align="center">Final Year CS Undergrad | Software Engineer | AI/ML + Finance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GitikaGoyal&label=Profile%20views&color=0e75b6&style=flat" alt="GitikaGoyal" /> </p>
 
 - 🌱 I’m currently learning **- Multimodal AI (text + image + audio) - Advanced NLP - Transformers, BERT, LLM fine-tuning - System Design for scalable apps**
 
-- 💬 Ask me about **Python • C++ • PyTorch • Transformers • NLP System Design • SQL • AI + Finance Projects Multimodal AI • OpenGL • Gradio • Streamlit**
+- 💬 Ask me about **Python • C++ • PyTorch • Transformers • NLP System Design • SQL • AI • Finance Projects • Multimodal AI • OpenGL • Gradio • Streamlit**
 
 - 📫 How to reach me **gitikagoyal1115@gmail.com**
 
