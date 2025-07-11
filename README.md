@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **- Multimodal AI (text + image + audio) - Advanced NLP - Transformers, BERT, LLM fine-tuning - System Design for scalable apps**
 
-- 💬 Ask me about **Python • C++ • PyTorch • Transformers • NLP System Design • SQL • AI • Finance Projects • Multimodal AI • OpenGL • Gradio • Streamlit**
+- 💬 Ask me about **Python • C++ • PyTorch • Transformers • NLP • System Design • SQL • AI • Finance Projects • Multimodal AI • OpenGL • Gradio • Streamlit**
 
 - 📫 How to reach me **gitikagoyal1115@gmail.com**
 
