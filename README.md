@@ -87,12 +87,10 @@
 <details>
   <summary>View Here</summary>
   <br>
-  <!-- 50 days -->
-  <!---
+  <!-- 🔥 50 Days Animated Badge -->
   <a href="https://leetcode.com/u/gitika_goyal/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="gitika50" height="200" width="200" />
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="GitikaGoyal - 50 Days of LeetCode" height="200" width="200" />
   </a>
-  -->
   <!-- 100 days -->
 <!--
   <a href="https://leetcode.com/u/gitika_goyal/" target="_blank">
