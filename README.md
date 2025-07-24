@@ -24,7 +24,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Tech Arsenal**  
 
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,react,nodejs,mongodb,mysql,postgresql,git,github,netlify,vscode,powershell,linux,docker,kubernetes,aws,pytorch,tensorflow,sklearn,opencv,arduino,autocad,matlab&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,react,nodejs,mongodb,mysql,postgresql,git,github,netlify,vscode,powershell,linux,docker,kubernetes,aws,pytorch,tensorflow,sklearn,opencv,arduino,autocad,matlab&perline=13)](#)
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats:</h3>
 
@@ -51,27 +51,22 @@
 <br><br>
 <br>
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GitikaGoyal&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="GitikaGoyal" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=GitikaGoyal&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=1800" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitikaGoyal&theme=highcontrast" />
+    </td>
+  </tr>
+</table>
 
 <br>
-<br><br>
-<br><br>
-<br><br>
-<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GitikaGoyal&theme=highcontrast" alt="GitikaGoyal" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitikaGoyal&theme=highcontrast&title_color=ffffff&text_color=ffffff&layout=compact)
 
 
-<br>
-<br><br>
-<br><br>
-<br><br>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=GitikaGoyal&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="GitikaGoyal" /></p>
-<br>
-<br><br>
-<br><br>
-<br><br>
-<br>
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info**
 <details>
   <summary>View Here</summary>
